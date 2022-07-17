@@ -1,3 +1,4 @@
-# website
+# Own This Day 
+## Chia NFT Collection
 
-This repo powers the Own This Day website
+More info coming soon
